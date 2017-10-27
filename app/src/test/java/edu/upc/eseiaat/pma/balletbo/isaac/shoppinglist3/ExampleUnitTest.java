@@ -1,4 +1,4 @@
-package edu.upc.eseiaat.pma.balletbo.isaac.shoppinglist2;
+package edu.upc.eseiaat.pma.balletbo.isaac.shoppinglist3;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package edu.upc.eseiaat.pma.balletbo.isaac.shoppinglist2;
+package edu.upc.eseiaat.pma.balletbo.isaac.shoppinglist3;
 
 /**
  * Created by Usuario on 23/10/2017.
